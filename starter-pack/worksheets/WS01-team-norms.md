@@ -20,11 +20,11 @@
 
 | Fase | Minggu | Phase Lead | Tanggung Jawab Utama Coverage |
 |---|---|---|---|
-| Discover | 1 | [Nama] | Koordinasi pembentukan tim, norma, peluncuran |
-| Frame | 2 | [Nama] | Koordinasi observasi & wawancara lapangan |
-| Define | 3–4 | [Nama] | Koordinasi kebutuhan & metrik sukses |
-| Design | 5–7 | [Nama] | Koordinasi desain solusi & sesi critik |
-| Build | 9–12 | [Nama] | Koordinasi pengkodean prototipe |
+| Discover | 1 | [Renaufal azizul ahnaf] | Koordinasi pembentukan tim, norma, peluncuran |
+| Frame | 2 | [Purnomo Hardinato] | Koordinasi observasi & wawancara lapangan |
+| Define | 3–4 | [Muhammad Rifqi Azis] | Koordinasi kebutuhan & metrik sukses |
+| Design | 5–7 | [Labib Fawwaz] | Koordinasi desain solusi & sesi critik |
+| Build | 9–12 | [Muhammad wizdan Akbar Firdaus] | Koordinasi pengkodean prototipe |
 | Test | 11–12 | [Nama] | Koordinasi pengujian & validasi |
 | Communicate | 14–15 | [Nama] | Koordinasi penyusunan presentasi publik |
 | Reflect | 13–16 | [Nama] | Koordinasi refleksi, portfolio & passport |

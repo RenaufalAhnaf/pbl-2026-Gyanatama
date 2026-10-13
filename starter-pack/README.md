@@ -1,4 +1,4 @@
-# [NAMA TIM] — Digital Problem Framing Mini Project
+git # [NAMA TIM] — Digital Problem Framing Mini Project
 
 ## Tim
 
@@ -13,7 +13,7 @@
 
 ## Objek Studi
 
-- **Nama Unit Usaha**: Laundry Mamikha
+- **Nama Unit Usaha**:  Mamikha Laundry
 - **Lokasi**: [contoh: Gedung A, Lantai 1]
 - **Pemilik**: [nama, kontak]
 - **Jenis Usaha**: Laundry
