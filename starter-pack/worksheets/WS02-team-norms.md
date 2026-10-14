@@ -27,7 +27,7 @@
 **Kata/konsep penting yang perlu kami kuasai**: Cara berkomunikasi dengan mitra/membenarkan proses bersosialisasi kita sebagai kelompok dan cara mendapatkan solusi untuk mitra
 
 ### Reflection
-- Pertanyaan mana yang paling sulit dijawab dan mengapa? - 
+- Pertanyaan mana yang paling sulit dijawab dan mengapa? Untuk sementara ini tidak ada
 - Informasi apa yang tidak boleh kami akses/tanyakan dan mengapa? Menanyakan informasi pribadi/data handphone dan foto customer. Karena, itu adalah data pribadi dari customer mitra
 
 ### Checklist
