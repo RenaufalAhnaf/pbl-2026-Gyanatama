@@ -8,8 +8,8 @@
 
 ## Activity
 
-1. Perkenalan singkat anggota: nama, kekuatan, harapan dari proyek
-2. Pilih objek studi dari daftar aman (kantin, warung, koperasi, unit layanan kampus)
+1. Perkenalan singkat anggota: Gyanatama , ilmu pengetahuan tinggi dan bijaksana , harapan dari proyek bisa lancar saat menghadapi praktikum PBl sebagai kelompok
+2. Pilih objek studi dari daftar aman (Laundry Mamikha)
 3. Tetapkan skema **rotating phase lead** (jadwal sementara siapa memimpin fase apa; semua anggota memimpin minimal satu fase)
 4. Sepakati norma tim (komunikasi, ketepatan waktu, cara menyelesaikan konflik)
 5. Susun need-to-know list awal (lanjut ke WS02)
@@ -45,16 +45,16 @@ _[Isi kesepakatan tim tentang penyelesaian konflik]_
 
 ## Reflection
 
-- Bagaimana perasaan saya terhadap jadwal kepemimpinan fase ini?
-- Apa kekhawatiran utama saya bekerja dalam tim ini dan bagaimana saya akan mengatasinya?
+- Bagaimana perasaan saya terhadap jadwal kepemimpinan fase ini? Sedikit bingung dan khawatir dalam masa lead ke 1 karena seedikit bekum mengerti apa itu PBL
+- Apa kekhawatiran utama saya bekerja dalam tim ini dan bagaimana saya akan mengatasinya? Sedikit susah saat memimpin karena saya sedikit susah untuk menjelaskan bagaimana dan apa yang akan dilakukan. Cara mengatasinya saya sebagi lead ke-1, harus belajar cara bersosialisasi secara mandiri agar dapat memimpin kelompok PBL masa lead ke-1
 
 ## Checklist
 
-- [ ] Tim terbentuk 3–4 orang
-- [ ] Objek studi terpilih dari daftar aman
-- [ ] Jadwal rotating phase lead disepakati (semua memimpin minimal satu fase)
-- [ ] Norma tim disepakati dan disetujui semua anggota
-- [ ] Salinan norma tim disimpan di GitHub (`docs/evidence/E5-meeting-log.md`)
+- [x] Tim terbentuk 3–4 orang
+- [x] Objek studi terpilih dari daftar aman
+- [x] Jadwal rotating phase lead disepakati (semua memimpin minimal satu fase)
+- [x] Norma tim disepakati dan disetujui semua anggota
+- [x] Salinan norma tim disimpan di GitHub (`docs/evidence/E5-meeting-log.md`)
 
 ---
 
