@@ -33,15 +33,15 @@
 
 ### Norma Tim yang Disepakati (minimal 5)
 
-1.
-2.
-3.
-4.
-5.
+1.Komunikasi dan respon: memberikan keterangan izin terlebih dahulu jika berhalangan merespon cepat
+2.Ketepatan waktu dan kehadiran: wajib hadir maksimal 5 menit sebelum kumpul/rapat
+3.Kualitas dan teanggat tugas: jikalau memungkinkan dapat menyelesaikan lebih awal seblum waktu yang telah di tentukan
+4.Transparansi dan pemberian tugas: semua berperan aktif pada bidangnya masing-masing
+5.Etika penggunaan AI: menggunakan AI hanya untuk alat bantu ideasi dan sebagai pembanding bukan untuk menyalin seluruh isi tugas
 
 ### Cara Menyelesaikan Konflik
 
-_[Isi kesepakatan tim tentang penyelesaian konflik]_
+_[Diskusi internal: melakukan komuni8ksi secara jujur agar toidak terjadi kesalahpahaman,menjaga efisiensi waktu untuk menginformasikan secara tepat waktu]_
 
 ## Reflection
 
@@ -50,11 +50,11 @@ _[Isi kesepakatan tim tentang penyelesaian konflik]_
 
 ## Checklist
 
-- [x] Tim terbentuk 3–4 orang
-- [x] Objek studi terpilih dari daftar aman
-- [x] Jadwal rotating phase lead disepakati (semua memimpin minimal satu fase)
-- [x] Norma tim disepakati dan disetujui semua anggota
-- [x] Salinan norma tim disimpan di GitHub (`docs/evidence/E5-meeting-log.md`)
+- [] Tim terbentuk 3–4 orang
+- [] Objek studi terpilih dari daftar aman
+- [] Jadwal rotating phase lead disepakati (semua memimpin minimal satu fase)
+- [] Norma tim disepakati dan disetujui semua anggota
+- [] Salinan norma tim disimpan di GitHub (`docs/evidence/E5-meeting-log.md`)
 
 ---
 

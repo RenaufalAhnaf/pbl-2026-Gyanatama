@@ -22,7 +22,7 @@
 |---|---|---|---|
 | 1 | Sudah berapa lama tempat launndy ini mulai? | Mas Harley (owner laundry) |Menanyakan nama atau pemilik laundry dengan  sopan dari apa yang kita pelajari pembelajaran materi dari dosen |
 | 2 | Bagaimana cara/proses saat customer datang dan proses laundrynya?|Mas Harley (owner laundry) | Menanyakan cara/proses kerja laundry dengan etika yang baik dan tidak memaksa mendapatkan jawabannya jika mitra tidak ingin menjawab|
-| 3 | Bagaimana proses/cara pembayaran di sistem tempat laundry tersebut| Mas Harley (owner laundry)|Menanyakan dengan cara bertahap sebelum ke proses pembayaran seperti materi yang pernah diajarkan saat materi |
+| 3 | Bagaimana proses/cara pembayaran di sistem tempat laundry tersebut?| Mas Harley (owner laundry)|Menanyakan dengan cara bertahap sebelum ke proses pembayaran seperti materi yang pernah diajarkan saat materi |
 
 **Kata/konsep penting yang perlu kami kuasai**: Cara berkomunikasi dengan mitra/membenarkan proses bersosialisasi kita sebagai kelompok dan cara mendapatkan solusi untuk mitra
 
@@ -31,9 +31,9 @@
 - Informasi apa yang tidak boleh kami akses/tanyakan dan mengapa? Menanyakan informasi pribadi/data handphone dan foto customer. Karena, itu adalah data pribadi dari customer mitra
 
 ### Checklist
-- [ ] Need-to-know list v1 tersusun (minimal 6 pertanyaan)
-- [ ] Setiap pertanyaan punya sumber & cara memperoleh yang etis
-- [ ] Daftar kata/konsep tercantum untuk project wall
-- [ ] Dikirim ke dosen koordinator sebagai bukti check-in (b)
+- [] Need-to-know list v1 tersusun (minimal 6 pertanyaan)
+- [] Setiap pertanyaan punya sumber & cara memperoleh yang etis
+- [] Daftar kata/konsep tercantum untuk project wall
+- [] Dikirim ke dosen koordinator sebagai bukti check-in (b)
 
 ---

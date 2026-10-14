@@ -21,9 +21,16 @@
 
 ### Workspace
 **Daftar pertanyaan wawancara** (max 10):
-1.
-2.
-3.
+1.Berapa lama Laundry telah berjalan?
+2.Bagaimana cara/proses saat customer datang dan proses laundrynya?
+3.Bagaimana proses/cara pembayaran di sistem tempat laundry tersebut?
+4.Apa saja metode pembayarannya?
+5.apakah bisa memnunda pembayarannya?
+6.Apa saja complain dari customer?
+7.Apakah laundry ini menjadi sumber penghasilan utama?
+8.Bagaimana cara agar customer tau bahwa laundry bisa diambil?
+9.Biasanya butuh berapa lama proses laundrynya?
+10.Apakah proses penotaan sudah otomatis?
 
 **Lembar observasi** (hal yang diamati):
 | Aspek yang Diamati | Temuan di Lapangan (Evidence) |
