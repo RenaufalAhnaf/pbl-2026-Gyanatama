@@ -10,10 +10,10 @@
 - **Ringkas**: Masalah terpilih harus didukung bukti, terukur, penting bagi pemilik, dan dapat diselesaikan dengan prototipe konsol/menu sederhana.
 
 ### Activity
-1. Dari temuan observasi, tuliskan 3 calon masalah.
-2. Nilai setiap calon: kepentingan bagi pemilik, keterukuran, dan kesesuaian dengan batasan teknis.
-3. Pilih satu masalah utama + tulis insight mengapa masalah ini muncul.
-4. Tulis pernyataan batasan: apa yang diselesaikan, apa yang TIDAK diselesaikan, dan alasannya.
+1. Dari temuan observasi, tuliskan 3 calon masalah. Jawaban: 1.Masalah dalam penataan barang laundry belum terorganisir 2.Customer laundry hanya sedikit saja 3.Sistem laundry yang sedikit belum terorgansisir secara rapih
+2. Nilai setiap calon: kepentingan bagi pemilik, keterukuran, dan kesesuaian dengan batasan teknis. Jawaban:  Hanya sebagai pekerjaan sampingan saja, -, -
+3. Pilih satu masalah utama + tulis insight mengapa masalah ini muncul. Jawaban: Mitra ingin mempunyai aplikasi untuk proses pembayaran agar lenih mudah, alasan: tidak bisa/tidak mampu membayar untuk mempunyai aplikasi karena pemasukan dan pengeleluaran tidak cukup
+4. Tulis pernyataan batasan: apa yang diselesaikan, apa yang TIDAK diselesaikan, dan alasannya. Jawaban:
 
 ### Workspace
 | Calon Masalah | Bukti (Evidence) | Insight | Penting (1–5) | Terukur (1–5) | Klir-Console? | Skor |

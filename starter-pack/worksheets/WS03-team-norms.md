@@ -35,16 +35,16 @@
 **Lembar observasi** (hal yang diamati):
 | Aspek yang Diamati | Temuan di Lapangan (Evidence) |
 |---|---|
-| Alur pelayanan utama | |
-| Titik antrean/hambatan | |
-| Data/angka yang terlihat (harga, jumlah, waktu) | |
-| Peran orang yang terlibat | |
+| Alur pelayanan utama | Customer datang/minta diambil barang laudryannya ditempat - buat nota - bayar langsung/tidak langsung - proses laundry cuci pakaian,jemur,pakaian,setrika pakaian - simpan pakaian di rak - konfirmasi melalui Whatsaap |
+| Titik antrean/hambatan | Tidak ada |
+| Data/angka yang terlihat (harga, jumlah, waktu) | Harga 10.000.Rp per 2kg, jumlah 2kg = 10.000.Rp, waktu bisa 1 hari jika mengantar pakaian dari pagi bisa diambil sore. Tapi, jika mengantar pakaian saat siang/malam hari baru bisa selesai saat besok hari |
+| Peran orang yang terlibat | Owner toko laundry dan 1 pegawai toko laundry |
 
-**Izin & etika**: [ ] Izin lisan/tulis pemilik didapat [ ] Tujuan dijelaskan [ ] Data pribadi tidak diambil tanpa izin
+**Izin & etika**: [✓] Izin lisan/tulis pemilik didapat [✓] Tujuan dijelaskan [✓] Data pribadi tidak diambil tanpa izin
 
 ### Reflection
-- Apa yang mengejutkan dari hasil observasi?
-- Bagaimana kami memastikan proses ini menghormati pemilik usaha?
+- Apa yang mengejutkan dari hasil observasi? Toko laundry tersebut bukan pengahsian utama dari owner toko laundry tersebut, owner punya penghasilan utama yang lain
+- Bagaimana kami memastikan proses ini menghormati pemilik usaha? Berbicara sesuai prosedur yang sudah di ajarkan dan tata cara berbicara kepada mitra dari materi yang sudah disampaikan
 
 ### Checklist
 - [ ] Daftar pertanyaan wawancara siap & disetujui dosen
