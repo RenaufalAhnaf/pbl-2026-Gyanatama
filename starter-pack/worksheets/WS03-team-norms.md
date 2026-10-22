@@ -35,7 +35,7 @@
 **Lembar observasi** (hal yang diamati):
 | Aspek yang Diamati | Temuan di Lapangan (Evidence) |
 |---|---|
-| Alur pelayanan utama | Customer datang/minta diambil barang laudryannya ditempat - buat nota - bayar langsung/tidak langsung - proses laundry cuci pakaian,jemur,pakaian,setrika pakaian - simpan pakaian di rak - konfirmasi melalui Whatsaap |
+| Alur pelayanan utama | Customer datang/minta diambil barang laundryannya ditempat - buat nota - bayar langsung/tidak langsung - proses laundry cuci pakaian,jemur,pakaian,setrika pakaian - simpan pakaian di rak - konfirmasi melalui Whatsaap |
 | Titik antrean/hambatan | Tidak ada |
 | Data/angka yang terlihat (harga, jumlah, waktu) | Harga 10.000.Rp per 2kg, jumlah 2kg = 10.000.Rp, waktu bisa 1 hari jika mengantar pakaian dari pagi bisa diambil sore. Tapi, jika mengantar pakaian saat siang/malam hari baru bisa selesai saat besok hari |
 | Peran orang yang terlibat | Owner toko laundry dan 1 pegawai toko laundry |

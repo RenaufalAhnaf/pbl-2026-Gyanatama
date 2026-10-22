@@ -18,20 +18,20 @@
 ### Workspace
 | Calon Masalah | Bukti (Evidence) | Insight | Penting (1–5) | Terukur (1–5) | Klir-Console? | Skor |
 |---|---|---|---|---|---|---|
-| 1. | | | | | | |
-| 2. | | | | | | |
-| 3. | | | | | | |
+| 1. |Barang tertukar | Komplain dari pelanggan | 3 | 3 | | |
+| 2. | Setrikaan kurang rapih | Komplain dari pelanggan | 4 | 4 | | |
+| 3. | Kehilangan baju | 4 | 4 | | | |
 
-**Masalah terpilih**: _ \
-**Insight (mengapa masalah ini terjadi)**: _ \
+**Masalah terpilih**: Kehilangan baju \
+**Insight (mengapa masalah ini terjadi)**: Terkait dari mitra mungkin barang hilang saat proses jemur baju atau dari customer tersebut \
 **Pernyataan batasan** (scope):
 - Diselesaikan dalam proyek ini: _
 - Tidak diselesaikan (alasan): _
-- Data/angka yang menjadi bukti masalah: _
+- Data/angka yang menjadi bukti masalah: Bukti data baju hilang, baju tidak kering, baju tertinggal, baju tertukar. Temuan observasi pernyataan dari mitra langsung/owner dari tempat laundry
 
 ### Reflection
-- Mengapa masalah ini paling layak diselesaikan oleh tim kami?
-- Risiko apa jika cakupan terlalu luas/sempit?
+- Mengapa masalah ini paling layak diselesaikan oleh tim kami? Karena menurut tim kami masalah yang terkait tersebut penting untuk mitra kami, dan juga sebagai solusi kepada mita kami
+- Risiko apa jika cakupan terlalu luas/sempit? Risiko jika cakupan terlalu luas adalah pembahasan kurang mendalam dan solusi sulit diterapkan. Sebaliknya, jika terlalu sempit, akar masalah bisa tidak ditemukan, misalnya hanya membahas pembayaran tanpa memperhatikan pakaian tertukar atau keterlambatan. Oleh karena itu, cakupan harus ditentukan secara tepat agar solusi sesuai dengan kebutuhan mitra laundry
 
 ### Checklist
 - [ ] Tiga calon masalah dinilai dengan bukti
