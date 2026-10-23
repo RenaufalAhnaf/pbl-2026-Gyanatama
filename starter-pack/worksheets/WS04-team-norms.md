@@ -19,7 +19,7 @@
 | Calon Masalah | Bukti (Evidence) | Insight | Penting (1–5) | Terukur (1–5) | Klir-Console? | Skor |
 |---|---|---|---|---|---|---|
 | 1. |Barang tertukar | Komplain dari pelanggan | 3 | 3 | | |
-| 2. | Setrikaan kurang rapih | Komplain dari pelanggan | 4 | 4 | | |
+| 2. | Setrikaan kurang rapih | Komplain dari pelanggan | 3 | 3 | | |
 | 3. | Kehilangan baju | Pelanggan merasa kehilangan baju dari laundry | 4 | 4 |  | |
 
 **Masalah terpilih**: Kehilangan baju \
