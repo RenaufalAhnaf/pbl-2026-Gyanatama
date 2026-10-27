@@ -48,9 +48,9 @@
 
 ### Checklist
 - [ ] Daftar pertanyaan wawancara siap & disetujui dosen
-- [ ] Izin pemilik didapat sebelum kunjungan
-- [ ] Observasi & wawancara selesai; catatan terstruktur
-- [ ] Data kuantitatif sederhana tercatat (menunjang CPMK-04 awal)
+- [✓] Izin pemilik didapat sebelum kunjungan
+- [✓] Observasi & wawancara selesai; catatan terstruktur
+- [✓] Data kuantitatif sederhana tercatat (menunjang CPMK-04 awal)
 
 ---
 

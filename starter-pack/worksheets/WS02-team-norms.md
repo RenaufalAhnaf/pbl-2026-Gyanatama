@@ -31,9 +31,9 @@
 - Informasi apa yang tidak boleh kami akses/tanyakan dan mengapa? Menanyakan informasi pribadi/data handphone dan foto customer. Karena, itu adalah data pribadi dari customer mitra
 
 ### Checklist
-- [] Need-to-know list v1 tersusun (minimal 6 pertanyaan)
-- [] Setiap pertanyaan punya sumber & cara memperoleh yang etis
-- [] Daftar kata/konsep tercantum untuk project wall
+- [✓] Need-to-know list v1 tersusun (minimal 6 pertanyaan)
+- [✓] Setiap pertanyaan punya sumber & cara memperoleh yang etis
+- [✓] Daftar kata/konsep tercantum untuk project wall
 - [] Dikirim ke dosen koordinator sebagai bukti check-in (b)
 
 ---

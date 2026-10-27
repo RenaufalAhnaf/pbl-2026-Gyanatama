@@ -11,29 +11,29 @@
 
 ## 1. Profil Organisasi / Unit Usaha
 
-- **Nama unit usaha**: [nama]
-- **Jenis usaha / layanan**: [mis. kantin kampus, warung, koperasi, unit layanan kampus]
-- **Lokasi**: [lokasi]
-- **Deskripsi singkat operasional**: [apa yang dilakukan, siapa pengguna, kapan beroperasi]
-- **Narahubung / pemilik**: [nama, jabatan, kontak]
+- **Nama unit usaha**: [Mamikha Laundry]
+- **Jenis usaha / layanan**: [ Laundry ] 
+- **Lokasi**: [Jl. Potronanggan Tamanan Banguntapan Bantul]
+- **Deskripsi singkat operasional**: [Tempat untuk laundry baju, Mas Harley, 3 Tahun]
+- **Narahubung / pemilik**: [Harley, Owner, 0821-3781-6688]
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [pernyataan masalah yang jelas — fokus pada MASALAH, bukan solusi]
-- **Pihak yang terdampak**: [siapa terkena dampak dan bagaimana]
-- **Frekuensi / keparahan**: [kapan terjadi, seberapa sering, seberapa mengganggu]
+- **Masalah utama**: [ Maslah terkait baju hilang, baju rusak, baju tertukar dan baju kurang rapih saat disetrika]
+- **Pihak yang terdampak**: [ Owner dan karyawan, karena itu masalah dari pihak mitra tersebut ]
+- **Frekuensi / keparahan**: [ Saat customer sudah mengambil barang cucian, sangat jarang, masih dalam batas wajar menurut owner]
 
 ## 3. Batasan Sistem (Scope)
 
-- **Diselesaikan dalam proyek ini**: [fitur/cakupan yang dikerjakan]
-- **Tidak diselesaikan (dan alasan)**: [di luar cakupan + alasan]
-- **Asumsi yang dipakai**: [asumsi kunci]
+- **Diselesaikan dalam proyek ini**: [ Mencakup sedikit saat proses pembayaran nota custumer harus memberikan nomor telepon/kontak agar mudah dihubungi, dan mengatur penataan setelah laundry penempatan baju di rak sesuai no pesanan yang ada di nota]
+- **Tidak diselesaikan (dan alasan)**: [Untuk masalah terkait baju hilang, rusak, dan tertukar, karena itu bukan masalah kami. Justru itu masalah terkait dari mitranya sendiri]
+- **Asumsi yang dipakai**: [ DIasumsikan bahwa pengelolaan laundry membutuhkan pencatatan yang teratur agar data pelanggan, jumlah pakaian, dan oembayaran tidak mengalami kesalahan. Selain itu, pegawai/owner harus teliti saat mencuci dan meemriksa pakaian agar tidak rusak, hilang, atau tertukar. Dengan pengelolaan yang baik,kualitas pelayanan dan kepuasan pelanggan dapat meningkat]
 
 ## 4. Data Kuantitatif Pendukung
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [mis. waktu layanan rata-rata] | [angka] | [observasi/wawancara] | [DD/MM] |
+| [Min rata-rata waktu pembayaran 90deyik] | [ 8 ] | [ Obsservasi dari  owner ] | [ 14/10 ] |
 | [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
 | [tambah baris jika perlu] | | | |
 

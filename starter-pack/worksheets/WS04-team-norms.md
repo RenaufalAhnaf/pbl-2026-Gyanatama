@@ -34,9 +34,9 @@
 - Risiko apa jika cakupan terlalu luas/sempit? Risiko jika cakupan terlalu luas adalah pembahasan kurang mendalam dan solusi sulit diterapkan. Sebaliknya, jika terlalu sempit, akar masalah bisa tidak ditemukan, misalnya hanya membahas pembayaran tanpa memperhatikan pakaian tertukar atau keterlambatan. Oleh karena itu, cakupan harus ditentukan secara tepat agar solusi sesuai dengan kebutuhan mitra laundry
 
 ### Checklist
-- [ ] Tiga calon masalah dinilai dengan bukti
-- [ ] Satu masalah terpilih dengan alasan & insight
-- [ ] Batasan (scope) ditulis dan disepakati tim
-- [ ] Masuk ke draf D1
+- [✓] Tiga calon masalah dinilai dengan bukti
+- [✓] Satu masalah terpilih dengan alasan & insight
+- [✓] Batasan (scope) ditulis dan disepakati tim
+- [✓] Masuk ke draf D1
 
 ---
