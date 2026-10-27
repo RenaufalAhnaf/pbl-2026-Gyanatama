@@ -25,9 +25,9 @@
 | Define | 3–4 | [Renaufal azizul ahnaf] | Koordinasi kebutuhan & metrik sukses |
 | Design | 5–7 | [Purnommo Hardianto] | Koordinasi desain solusi & sesi critik |
 | Build | 9–12 | [Muhammad wizdan Akbar Firdaus] | Koordinasi pengkodean prototipe |
-| Test | 11–12 | [Nama] | Koordinasi pengujian & validasi |
-| Communicate | 14–15 | [Nama] | Koordinasi penyusunan presentasi publik |
-| Reflect | 13–16 | [Nama] | Koordinasi refleksi, portfolio & passport |
+| Test | 11–12 | [Labib Fawwaz] | Koordinasi pengujian & validasi |
+| Communicate | 14–15 | [Muhammad Rifqy azis] | Koordinasi penyusunan presentasi publik |
+| Reflect | 13–16 | [Muhammad wizdan Akbar Firdaus] | Koordinasi refleksi, portfolio & passport |
 
 *Catatan: jadwal ini dapat disesuaikan sepanjang semester, dicatat di E5 (Meeting Log). Tim 3 orang: dua fase terakhir dikelola bersama.*
 

@@ -25,7 +25,7 @@
 2.Bagaimana cara/proses saat customer datang dan proses laundrynya?
 3.Bagaimana proses/cara pembayaran di sistem tempat laundry tersebut?
 4.Apa saja metode pembayarannya?
-5.apakah bisa memnunda pembayarannya?
+5.apakah bisa menunda pembayarannya?
 6.Apa saja complain dari customer?
 7.Apakah laundry ini menjadi sumber penghasilan utama?
 8.Bagaimana cara agar customer tau bahwa laundry bisa diambil?
