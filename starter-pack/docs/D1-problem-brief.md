@@ -19,7 +19,7 @@
 
 ## 2. Deskripsi Masalah Utama
 
-- **Masalah utama**: [ Maslah terkait baju hilang, baju rusak, baju tertukar dan baju kurang rapih saat disetrika]
+- **Masalah utama**: [ Masalah terkait baju hilang, baju rusak, baju tertukar dan baju kurang rapih saat disetrika]
 - **Pihak yang terdampak**: [ Owner dan karyawan, karena itu masalah dari pihak mitra tersebut ]
 - **Frekuensi / keparahan**: [ Saat customer sudah mengambil barang cucian, sangat jarang, masih dalam batas wajar menurut owner]
 
@@ -27,13 +27,13 @@
 
 - **Diselesaikan dalam proyek ini**: [ Mencakup sedikit saat proses pembayaran nota custumer harus memberikan nomor telepon/kontak agar mudah dihubungi, dan mengatur penataan setelah laundry penempatan baju di rak sesuai no pesanan yang ada di nota]
 - **Tidak diselesaikan (dan alasan)**: [Untuk masalah terkait baju hilang, rusak, dan tertukar, karena itu bukan masalah kami. Justru itu masalah terkait dari mitranya sendiri]
-- **Asumsi yang dipakai**: [ DIasumsikan bahwa pengelolaan laundry membutuhkan pencatatan yang teratur agar data pelanggan, jumlah pakaian, dan oembayaran tidak mengalami kesalahan. Selain itu, pegawai/owner harus teliti saat mencuci dan meemriksa pakaian agar tidak rusak, hilang, atau tertukar. Dengan pengelolaan yang baik,kualitas pelayanan dan kepuasan pelanggan dapat meningkat]
+- **Asumsi yang dipakai**: [ Diasumsikan bahwa pengelolaan laundry membutuhkan pencatatan yang teratur agar data pelanggan, jumlah pakaian, dan oembayaran tidak mengalami kesalahan. Selain itu, pegawai/owner harus teliti saat mencuci dan memeriksa pakaian agar tidak rusak, hilang, atau tertukar. Dengan pengelolaan yang baik,kualitas pelayanan dan kepuasan pelanggan dapat meningkat]
 
 ## 4. Data Kuantitatif Pendukung
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [Min rata-rata waktu pembayaran 90deyik] | [ 8 ] | [ Obsservasi dari  owner ] | [ 14/10 ] |
+| [Min rata-rata waktu pembayaran 90 detik] | [ 8 ] | [ Obsservasi dari  owner ] | [ 14/10 ] |
 | [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
 | [tambah baris jika perlu] | | | |
 

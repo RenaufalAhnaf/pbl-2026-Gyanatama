@@ -43,7 +43,7 @@
 **Izin & etika**: [✓] Izin lisan/tulis pemilik didapat [✓] Tujuan dijelaskan [✓] Data pribadi tidak diambil tanpa izin
 
 ### Reflection
-- Apa yang mengejutkan dari hasil observasi? Toko laundry tersebut bukan pengahsian utama dari owner toko laundry tersebut, owner punya penghasilan utama yang lain
+- Apa yang mengejutkan dari hasil observasi? Toko laundry tersebut bukan pengahasilan utama dari owner toko laundry tersebut, owner punya penghasilan utama yang lain
 - Bagaimana kami memastikan proses ini menghormati pemilik usaha? Berbicara sesuai prosedur yang sudah di ajarkan dan tata cara berbicara kepada mitra dari materi yang sudah disampaikan
 
 ### Checklist

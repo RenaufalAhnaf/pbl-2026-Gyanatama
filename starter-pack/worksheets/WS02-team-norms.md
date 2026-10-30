@@ -20,7 +20,7 @@
 **Kami perlu tahu** (dikelompokkan: organisasi / masalah / data / solusi):
 | # | Pertanyaan (Need-to-Know) | Sumber Informasi | Cara Mendapatkan (Etis) |
 |---|---|---|---|
-| 1 | Sudah berapa lama tempat launndy ini mulai? | Mas Harley (owner laundry) |Menanyakan nama atau pemilik laundry dengan  sopan dari apa yang kita pelajari pembelajaran materi dari dosen |
+| 1 | Sudah berapa lama tempat laundry ini mulai? | Mas Harley (owner laundry) |Menanyakan nama atau pemilik laundry dengan  sopan dari apa yang kita pelajari pembelajaran materi dari dosen |
 | 2 | Bagaimana cara/proses saat customer datang dan proses laundrynya?|Mas Harley (owner laundry) | Menanyakan cara/proses kerja laundry dengan etika yang baik dan tidak memaksa mendapatkan jawabannya jika mitra tidak ingin menjawab|
 | 3 | Bagaimana proses/cara pembayaran di sistem tempat laundry tersebut?| Mas Harley (owner laundry)|Menanyakan dengan cara bertahap sebelum ke proses pembayaran seperti materi yang pernah diajarkan saat materi |
 

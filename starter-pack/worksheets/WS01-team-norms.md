@@ -22,12 +22,12 @@
 |---|---|---|---|
 | Discover | 1 | [Renaufal azizul ahnaf] | Koordinasi pembentukan tim, norma, peluncuran |
 | Frame | 2 | [Renaufal azizul ahnaf] | Koordinasi observasi & wawancara lapangan |
-| Define | 3–4 | [Renaufal azizul ahnaf] | Koordinasi kebutuhan & metrik sukses |
-| Design | 5–7 | [Purnommo Hardianto] | Koordinasi desain solusi & sesi critik |
-| Build | 9–12 | [Muhammad wizdan Akbar Firdaus] | Koordinasi pengkodean prototipe |
-| Test | 11–12 | [Labib Fawwaz] | Koordinasi pengujian & validasi |
-| Communicate | 14–15 | [Muhammad Rifqi azis] | Koordinasi penyusunan presentasi publik |
-| Reflect | 13–16 | [Muhammad wizdan Akbar Firdaus] | Koordinasi refleksi, portfolio & passport |
+| Define | 3–4 | [Purnommo Hardianto] | Koordinasi kebutuhan & metrik sukses |
+| Design | 5–7 | Muhammad wizdan Akbar Firdaus[] | Koordinasi desain solusi & sesi critik |
+| Build | 9–12 | [ Muhammad Rifqi Azis] | Koordinasi pengkodean prototipe |
+| Test | 11–12 | [ Labib Fawwaz] | Koordinasi pengujian & validasi |
+| Communicate | 14–15 | [Muhammad wizdan Akbar Firdaus ] | Koordinasi penyusunan presentasi publik |
+| Reflect | 13–16 | [ Muhammad Rifqi Azis] | Koordinasi refleksi, portfolio & passport |
 
 *Catatan: jadwal ini dapat disesuaikan sepanjang semester, dicatat di E5 (Meeting Log). Tim 3 orang: dua fase terakhir dikelola bersama.*
 
@@ -35,13 +35,13 @@
 
 1.Komunikasi dan respon: memberikan keterangan izin terlebih dahulu jika berhalangan merespon cepat
 2.Ketepatan waktu dan kehadiran: wajib hadir maksimal 5 menit sebelum kumpul/rapat
-3.Kualitas dan teanggat tugas: jikalau memungkinkan dapat menyelesaikan lebih awal seblum waktu yang telah di tentukan
+3.Kualitas dan tenggat tugas: jikalau memungkinkan dapat menyelesaikan lebih awal seblum waktu yang telah di tentukan
 4.Transparansi dan pemberian tugas: semua berperan aktif pada bidangnya masing-masing
 5.Etika penggunaan AI: menggunakan AI hanya untuk alat bantu ideasi dan sebagai pembanding bukan untuk menyalin seluruh isi tugas
 
 ### Cara Menyelesaikan Konflik
 
-_[Diskusi internal: melakukan komuni8ksi secara jujur agar toidak terjadi kesalahpahaman,menjaga efisiensi waktu untuk menginformasikan secara tepat waktu]_
+_[Diskusi internal: melakukan komunikasi secara jujur agar tidak terjadi kesalahpahaman,menjaga efisiensi waktu untuk menginformasikan secara tepat waktu]_
 
 ## Reflection
 
