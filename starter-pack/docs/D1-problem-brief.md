@@ -33,19 +33,24 @@
 
 | Indikator | Nilai/Baseline | Sumber Data | Tanggal |
 |---|---|---|---|
-| [Min rata-rata waktu pembayaran 90 detik] | [ 8 ] | [ Obsservasi dari  owner ] | [ 14/10 ] |
-| [mis. jumlah transaksi per hari] | [angka] | [observasi] | [DD/MM] |
+| [Min rata-rata waktu pembayaran 90 detik] | [ 8 ] | [ Obsservasi dari  owner (Mas Harley) ] | [ 14/10 ] |
+| [mis. jumlah transaksi per hari] | [ 5 ] | [Obsservasi dari  owner (Mas Harley)] | [ 14/10 ] |
 | [tambah baris jika perlu] | | | |
 
 ## 5. Pernyataan Kebutuhan Awal (ringkasan ke D2)
 
 - Kebutuhan inti yang akan dijawab prototipe: [3–5 butir]
+1. Pencatatan kontak pelanggan saat pembayaran. Sistem mewajibkan nama dan nomor telepon pelanggan saat nota dibuat/dibayar, sehingga pelanggan mudah dihubungi bila ada pertanyaan atau pakaian siap diambil.
+2. Pencatatan pesanan yang teratur. Sistem mencatat nomor pesanan, jumlah dan jenis pakaian, serta status pembayaran, agar data tidak salah catat dan bisa dicocokkan saat pengambilan.
+3. Penataan pakaian di rak berdasarkan nomor pesanan. Nomor pesanan pada nota menjadi acuan lokasi rak, sehingga pakaian yang sudah selesai mudah ditemukan dan tidak tertukar.
+4. Pemantauan status pesanan. Sistem menampilkan tahapan pesanan (diterima, dicuci, disetrika, siap diambil), agar owner dan karyawan tahu posisi tiap pesanan dan bisa memeriksa kondisi pakaian di setiap tahap.
 
 ## 6. Daftar Rujukan / Bukti
 
-- [Observasi lapangan tanggal ...]
-- [Wawancara pemilik tanggal ...]
-- [Dokumen pendukung lainnya]
+- [Observasi lapangan tanggal 14/10/2026]
+- [Wawancara pemilik tanggal 14/10/2026]
+- [[17.29, 4/11/2026] .: https://drive.google.com/drive/folders/1vRLeKBPQn9cxPBN4lih_fuakE0WBHlP2
+[19.28, 4/11/2026] .: https://m]
 
 ---
 
