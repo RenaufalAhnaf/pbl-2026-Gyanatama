@@ -13,9 +13,9 @@
 
 | # | User Story | Prioritas |
 |---|---|---|
-| 1 | Sebagai [peran], saya ingin [fitur] sehingga [manfaat] | [Tinggi/Sedang/Rendah] |
-| 2 | | |
-| 3 | | |
+| 1 | Sebagai [Kasir Laundry Mamikha], saya ingin [mencatatan rincian lembar pakaian pada nota tertulis atau sistem digital dan penghitungan ulang jumlah lembar sebelum diserahkan kembali ke customer.] sehingga [saya bisa memverifikasi apakah baju yang hilang tersebut benar-benar ada di manifes masuk laundry.] | [Tinggi/Sedang/Rendah] |
+| 2 | Sebagai [Mas Harley (owner laundry)], saya ingin [mencatat pemakaian pelicin dan bahan setrika per periode atau per order.] sehingga [saya bisa memastikan takaran sesuai standar dan tidak terlalu sedikit sehingga hasil kurang rapi.] | [Tinggi/Sedang/Rendah] |
+| 3 | Sebagai [Mas Harley (owner laundry)], saya ingin [melihat rekap kasus barang tertukar per periode] sehingga [menemukan pola penyebab (misalnya pada jam sibuk atau karyawan tertentu) dan memperbaiki prosedur.] | [Tinggi/Sedang/Rendah] |
 | 4 | *(tambah jika perlu)* | |
 
 ## 2. Kriteria Penerimaan
